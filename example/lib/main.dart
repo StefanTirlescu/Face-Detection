@@ -47,7 +47,7 @@ class _HomeState extends State<Home> {
     _prefs = await SharedPreferences.getInstance();
     setState(() {
       _serverUrl = _prefs.getString('serverUrl') ??
-          'https://powerful-porpoise-certainly.ngrok-free.app';
+          'https://powerful-porpoise-certainly.ngrok-free.app/upload_image';
     });
   }
 
