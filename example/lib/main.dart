@@ -33,7 +33,7 @@ class _HomeState extends State<Home> {
   int _timerValue = 3; // Valoarea implicită a timer-ului
   late SharedPreferences _prefs;
   late String _serverUrl =
-      'https://powerful-porpoise-certainly.ngrok-free.app'; // URL-ul implicit al serverului
+      'https://powerful-porpoise-certainly.ngrok-free.app/upload_image'; // URL-ul implicit al serverului
   late String _accessToken = '';
 
   @override
