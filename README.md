@@ -2,13 +2,13 @@
 
 Proiectul „Face Detection” utilizarea Google ML Kit pentru detectarea fețelor într-o aplicație Flutter. Această aplicație este concepută pentru a funcționa pe platforma Android și oferă detectare în timp real a fețelor. Proiectul este ideal pentru dezvoltatorii care doresc să încorporeze funcționalități de recunoaștere facială în aplicațiile lor mobile, folosind tehnologiile moderne.
 
-## Requirements
+## Cerințe
 
 - Flutter SDK
 - Dart
 - Android Studio or Xcode
 
-## Installation
+## Instalare
 
 1. Clone the repository:
    ```bash
