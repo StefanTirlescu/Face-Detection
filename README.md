@@ -27,4 +27,4 @@ Proiectul „Face Detection” utilizarea Google ML Kit pentru detectarea fețel
    ```bash
    flutter run
    ```
-   Sau pentru instalarea directă se poate descărca direct pe telefonul mobil APK-ul care se regăseste în secțiunea  „Releases”.
+   - Sau pentru instalarea directă se poate descărca direct pe telefonul mobil APK-ul care se regăseste în secțiunea  „Releases”.
