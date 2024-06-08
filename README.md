@@ -10,7 +10,7 @@ Proiectul „Face Detection” utilizarea Google ML Kit pentru detectarea fețel
 
 ## Instalare
 
-1. Clone the repository:
+1. Clonarea repository-ului:
    ```bash
    git clone https://github.com/StefanTirlescu/Face-Detection.git
    ```
