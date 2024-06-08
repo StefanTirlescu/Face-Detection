@@ -23,7 +23,7 @@ Proiectul „Face Detection” utilizarea Google ML Kit pentru detectarea fețel
    flutter pub get
    ```
 4. Rularea aplicației
-   Pentru rulare este nevoie să fie conectat un telefon cu sistemul de operare Android.
+   - Pentru rulare este nevoie să fie conectat un telefon cu sistemul de operare Android.
    ```bash
    flutter run
    ```
